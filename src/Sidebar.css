@@ -1,0 +1,7 @@
+.sidebar {
+  background-color: var(--slack-color);
+  border-top: 1px solid #49274b;
+  color: white;
+  max-width: 260px;
+}
+/* 59:00 */
